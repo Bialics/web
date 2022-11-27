@@ -25,3 +25,17 @@ ul {
   .active {
     background-color: #fdba00;
   }
+
+
+  div.foot{
+    border: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 180px;
+    border-color: black ;
+    bottom: 2;
+    right: 0;
+    position: absolute;
+    display: block;
+  }
+
+
