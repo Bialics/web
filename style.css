@@ -32,10 +32,15 @@ ul {
     font-family: Arial, Helvetica, sans-serif;
     width: 180px;
     border-color: black ;
-    bottom: 2;
-    right: 0;
-    position: absolute;
-    display: block;
+    
   }
 
-
+div.footer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: darkorange;
+  color: azure;
+  text-align: center;
+}
